@@ -1,4 +1,4 @@
-# Introduction to StockSage
+# Introduction to StockAgent
 
 ## Project Overview
 
