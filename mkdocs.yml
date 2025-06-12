@@ -1,0 +1,10 @@
+site_name: StockAgent
+summary: Multi-Agent System for US Stock Selection
+authors:
+    - Lavanya Cheshani
+date: 2025-05-10
+nav:
+  - Home: index.md
+  - Introduction: introduction.md
+  - Methodology: methodology.md
+theme: readthedocs
