@@ -19,13 +19,6 @@ StockAgent is a sophisticated hierarchical multi-agent system built to identify 
 - [Installation](installation.md) – How to install and set up StockAgent
 - [Usage](usage.md) – Guide to using StockAgent for stock picking
 
-## Development Team
-
-StockAgent is developed by:
-
-- **Ranuga Disansa**
-- **Sasvidu Abesinghe**
-- **Yasiru Ravisara Fernando**
 
 ## License
 
