@@ -1,5 +1,5 @@
 [project]
-name = "StockSage"
+name = "StockAgent"
 version = "0.1.0"
 description = "Hierarchical Multi-Agent System for Top 5 US Stock Selection"
 authors = [{ name = "Ranuga Disansa Gamage", email = "go2ranuga@gmail.com" }, { name = "Sasvidu Abesinghe", email = "amsranthul@gmail.com" }, { name = "Yasiru Ravisara Fernando", email = "dyrfernando@gmail.com" }]
