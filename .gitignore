@@ -1,0 +1,98 @@
+# ========================
+# Secrets — never commit
+# ========================
+.env
+!.env.example
+
+# ========================
+# Python virtual environments
+# ========================
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ========================
+# Python cache & bytecode
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ========================
+# IDE / Editor settings
+# ========================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.spyderproject
+.spyproject
+.ropeproject
+
+# ========================
+# Type checkers
+# ========================
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+
+# ========================
+# Linters & formatters
+# ========================
+.ruff_cache/
+
+# ========================
+# Testing
+# ========================
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# ========================
+# Build & distribution
+# ========================
+cython_debug/
+*.egg-info/
+dist/
+build/
+
+# ========================
+# mkdocs documentation
+# ========================
+/site
+
+# ========================
+# Node / Frontend
+# ========================
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# ========================
+# Analysis outputs (keep directory, not data)
+# ========================
+outputs/*.json
+outputs/*.txt
+outputs/*.md
+!outputs/.gitkeep
+
+# ========================
+# Miscellaneous
+# ========================
+.pypirc
+archive/
+.history/
+*.log
+*_out.txt
+*_out_*.txt
+*_err.txt
+*_log.txt
+*_ids.txt

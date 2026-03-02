@@ -1,0 +1,29 @@
+{
+  "investments": [
+    {
+      "company_name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "thesis": "NVIDIA, a leader in semiconductor products, holds a pioneering position in AI technology, with significant market share and proprietary technology edge. The company is expected to provide a 20% annualized return over 5 years, leveraging its dominant position in AI and stable revenue growth."
+    },
+    {
+      "company_name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "thesis": "Microsoft Corporation has demonstrated sustained leadership in cloud computing and software services, showing consistent revenue growth with healthy margins. With its robust cloud computing services and dominant market share in enterprise software, the company presents a potential for a 15% annual return with low to moderate risk."
+    },
+    {
+      "company_name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "thesis": "Tesla, Inc. stands at the forefront of the electric vehicle industry, utilizing its strong brand and substantial EV market share. While the company offers a 10-15% return potential, high volatility and speculative risks need to be considered, specifically related to industry dynamics and regulatory developments."
+    },
+    {
+      "company_name": "Shopify, Inc.",
+      "ticker": "SHOP",
+      "thesis": "As a leading e-commerce platform provider, Shopify, Inc. capitalizes on the expanding digital retail space, displaying impressive revenue growth and ecosystem expansion. The company targets a 20% potential return, balanced by the competitive nature of the e-commerce industry."
+    },
+    {
+      "company_name": "NextEra Energy, Inc.",
+      "ticker": "NEE",
+      "thesis": "NextEra Energy, Inc. is positioned as a leader in sustainable energy solutions, boasting a strong presence in wind and solar energy infrastructure. With a long-term strategy focused on renewable infrastructure advancements, the company is a strong buy opportunity with a 15% return potential, given its robust market position protecting against broader utility sector risks."
+    }
+  ]
+}
